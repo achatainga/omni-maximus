@@ -1,0 +1,8 @@
+.git/
+.gitignore
+tests/
+screenshots/
+generate_screenshots.py
+omni-maximus.zip
+*.tmp
+*.log

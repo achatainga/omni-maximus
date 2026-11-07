@@ -1,0 +1,30 @@
+{
+  "name": "@achatainga/omni-maximus",
+  "version": "18.0.0",
+  "description": "Autonomous Adversarial SRE, AppSec & UI Forensics Engine. Enforces 6 deterministic Hard Gates with zero-false-positive executable PoC falsification.",
+  "type": "module",
+  "main": "src/engine.mjs",
+  "bin": {
+    "omni-maximus": "bin/cli.mjs"
+  },
+  "scripts": {
+    "test": "node bin/cli.mjs"
+  },
+  "author": "Alejandro Chataing <a.chataing.a@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achatainga/omni-maximus.git"
+  },
+  "keywords": [
+    "sre",
+    "appsec",
+    "adversarial",
+    "code-audit",
+    "ai-agents",
+    "guardrails",
+    "antigravity",
+    "claude-code",
+    "cursor"
+  ]
+}
